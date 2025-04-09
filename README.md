@@ -51,7 +51,7 @@ react-redux-auth/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-redux-auth.git
+   git clone https://github.com/gauravshresthaofficial/react-redux-auth.git
    cd react-redux-auth
    ```
 
@@ -67,19 +67,13 @@ react-redux-auth/
    npm run dev
    ```
 
-4. In a separate terminal, start the JSON Server (mock API):
-   ```bash
-   npm run server
-   ```
-
 ## Dependencies
 
-- React 18
+- React
 - Redux Toolkit
-- React Router 6
+- React Router
 - Material UI (MUI)
 - Axios
-- JSON Server (dev dependency)
 - Vite
 
 ## Customization
